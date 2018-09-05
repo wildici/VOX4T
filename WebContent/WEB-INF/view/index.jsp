@@ -249,13 +249,13 @@ function ExibeDados(token){
 
     </div>
 
-<!-- video de background
+<!-- video de background -->
 
     <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-      <source src=""<%=request.getContextPath()%>/resources/externo/mp4/bg.mp4" type="video/mp4">
+      <source src="<%=request.getContextPath()%>/resources/externo/mp4/bg.mp4" type="video/mp4">
     </video>
 
--->
+
 
 	<!-- INICIO MODAL LOGIN -->
 
